@@ -1,0 +1,26 @@
+1.0.0.ub1604lts - January 20, 2018
+
+- Added new endpoint networks definitions on main
+  config (iptables related).
+- Grafana included on horizon install module with
+  gnocchi support (proper changes on CORS config
+  included for both keystone and gnocchi).
+- First ready-for-production non-beta release.
+
+0.9.b2.ub1604lts - November 27, 2017
+
+- Updated cinder catalog information on nova install
+  module.
+- Removed old deprecated options on cinder install
+  module.
+- Updated local_settings.py file (horizon).
+
+
+0.9.b1.ub1604lts - November 23, 2017
+
+- First beta for Ubuntu 16.04lts!
+- All modules adapted to OpenStack Rel 16 "Pike".
+- All latest changes on our Ocata-based installer
+  adapted to this new Installer for PIKE.
+
+
